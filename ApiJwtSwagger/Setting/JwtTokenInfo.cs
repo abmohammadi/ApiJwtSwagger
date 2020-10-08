@@ -11,6 +11,6 @@ namespace ApiJwtSwagger.Setting
         public string Key = "Your insert your key here Your insert your key here";
         public string Issuer = "http://dpSirang.ir";
         public string Audience = "http://dpSirang.ir";
-        public int ExpireDays = 5;
+        public int ExpireDays = 5; 
     }
 }
